@@ -62,6 +62,6 @@ zindict/
 ---
 
 ## （五）许可证
-ZinDict 使用 [MIT 许可证](LICENSE)。
+ZinDict 使用 [GPL 许可证](LICENSE)。
 
 ---
